@@ -24,7 +24,7 @@ Once Composer has installed or updated your packages you need to register Neo4jP
 Configuration
 =============
 
-Since I like having my config files in one directory, this library checks to see if the settings are in the database.php file in the app/config directory as one of the connections under the neo4j key, but if there isn't one defined, it looks in its local config.php file.
+Since I like having my config files in one directory, this library checks to see if the settings are in the database.php file in the app/config directory as one of the connections under the 'neo4j' key, but if there isn't one defined, it looks in its local config.php file.
 
 Usage
 =====
