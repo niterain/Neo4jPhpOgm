@@ -1,0 +1,20 @@
+{
+    "name": "niterain/neo4j-php-ogm",
+    "description": "",
+    "authors": [
+        {
+            "name": "levi stanley",
+            "email": "levi@eneservices.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Niterain\\Neo4jPhpOgm": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
