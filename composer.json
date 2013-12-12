@@ -1,12 +1,13 @@
 {
     "name": "niterain/neo4j-php-ogm",
-    "description": "",
+    "description": "Brings Neo4J PHP OGM to Laravel4",
     "authors": [
         {
             "name": "levi stanley",
             "email": "levi@eneservices.com"
         }
     ],
+    "keywords": ["laravel", "php"],
     "require": {
         "php": ">=5.3.0",
         "illuminate/support": "4.0.x"
